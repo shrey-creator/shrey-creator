@@ -2,7 +2,6 @@
 
 - 🔭 I’m currently B.tech 3rd year in Bennett University.
 - 🌱 I’m currently learning advanced DSA and backend development(Node.js,express.js).
-- 🤔 I’m looking for help with ...
 - 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/shrey-agrawal-12ab95183/)
 - 👨🏽‍💻I majorly program in c++ and i also know java and python
 - 💻I have done web in HTML,CSS,javaScript,Node.js and express.js
